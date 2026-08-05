@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/minegameing50">
-    <img src="https://github-readme-stats.vercel.app/api?username=minegameing50&show_icons=true&theme=radical" alt="Atul Dhanotiya's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=minegameing50&show_icons=true&theme=radical&hide_border=true" alt="Atul Dhanotiya's GitHub Stats"/>
   </a>
   <a href="https://github.com/minegameing50">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=minegameing50&theme=radical" alt="Atul Dhanotiya's GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=minegameing50&theme=radical&hide_border=true" alt="Atul Dhanotiya's GitHub Streak"/>
   </a>
 </p>
 
@@ -92,9 +92,37 @@ Gesture-based clipboard manager for intuitive copy-paste operations using hand t
 - **2025**: Built PulseChat (Real-time chat application with Firebase backend)
 - **2026**: Built SmartAttend (AI-powered attendance system with facial recognition)
 
+## GitHub Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/minegameing50/minegameing50/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minegameing50&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=minegameing50&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=minegameing50&layout=compact&theme=radical&hide_border=true" alt="WakaTime Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minegameing50&theme=radical" alt="GitHub Activity Graph"/>
+</p>
+
 ## Connect with me
 
-- [GitHub](https://github.com/minegameing50)
-- [LinkedIn](https://www.linkedin.com/in/atul-dhanotiya-648481356)
-- [Instagram](https://www.instagram.com/atul_dhanotiya_4422)
-- [Email](mailto:atuldhanotiya7@gmail.com)
+<p align="center">
+  <a href="https://github.com/minegameing50"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/atul-dhanotiya-648481356"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/atul_dhanotiya_4422"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:atuldhanotiya7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=minegameing50&color=blue" alt="Profile views"/>
+</p>
