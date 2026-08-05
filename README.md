@@ -1,16 +1,100 @@
-## Hi there 👋
+# Hi, I'm Atul Dhanotiya 👋
 
-<!--
-**minegameing50/minegameing50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/minegameing50">
+    <img src="https://github-readme-stats.vercel.app/api?username=minegameing50&show_icons=true&theme=radical" alt="Atul Dhanotiya's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/minegameing50">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=minegameing50&theme=radical" alt="Atul Dhanotiya's GitHub Streak"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=I+build+modern+web+applications;AI-powered+solutions;and+real-world+projects.&center=true&size=22" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate BCA student at Mandsaur University with a deep interest in web development and artificial intelligence. I love building real-world applications that solve meaningful problems and create impact.
+
+My journey in tech started with curiosity and has evolved into a committed pursuit of excellence. From building AI-powered tools to creating full-stack web applications, I'm constantly pushing the boundaries of what I can create. I'm currently open to internship opportunities where I can contribute and grow.
+
+## About Me
+
+- **Education**: BCA at Mandsaur University (Current CGPA: 8.45)
+- **Location**: Suwasra, Madhya Pradesh
+- **Availability**: Open for Internships
+
+## Experience
+
+### Internshala Student Partner (Jun/2026 - Present)
+- Student Outreach & Campus Engagement
+- Promotion Campaigns & Marketing
+- Event Participation & Coordination
+- Driving Student Registrations
+- Community Building & Engagement
+
+### Web Development Intern at InAmigos Foundation (IAF) (06/July/2026 - 19/July/2026)
+- Developed responsive web pages using HTML, CSS, and JavaScript
+- Created NGO awareness webpages based on official content and branding
+- Designed user-friendly interfaces to promote social initiatives and community engagement
+- Researched and presented accurate information from official sources
+- Collaborated with the internship team to complete assigned web development tasks within deadlines
+
+## Hackathons
+
+### Google Solution Challenge 2026 - Team HMT CODERS
+- **Achievement**: Top 120 Teams
+- **Project**: BiasGuard AI — an AI-powered tool to detect and mitigate bias in machine learning models and datasets.
+
+## Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,js,ts,html,css,tailwind,firebase,github,vscode,netlify" />
+</p>
+
+- **Programming**: C, JavaScript, TypeScript
+- **Frontend**: HTML, CSS, Tailwind CSS
+- **Backend**: Firebase
+- **Tools**: GitHub, VS Code, Netlify
+
+## Featured Projects
+
+### SmartAttend
+AI-powered smart attendance tracking system using facial recognition and real-time monitoring.
+- **Technologies**: HTML, CSS, JavaScript
+- [Live Demo](https://minegameing50.github.io/SmartAttend/)
+- [GitHub](https://github.com/minegameing50/SmartAttend)
+- [Case Study](https://minegameing50.github.io/pages/smartattend.html)
+
+### BiasGuard AI
+AI tool to detect and mitigate bias in machine learning models. Built for Google Solution Challenge 2026.
+- **Technologies**: Python, AI/ML, Flask
+- [Live Demo](https://biasguard-ai.onrender.com/)
+- [GitHub](https://github.com/minegameing50/BiasGuard-AI)
+- [Case Study](https://minegameing50.github.io/pages/biasguard.html)
+
+### PulseChat
+Real-time chat application with modern UI, instant messaging, and seamless user experience.
+- **Technologies**: HTML, CSS, JavaScript, Firebase
+- [Live Demo](https://minegameing50.github.io/pulsechat/)
+- [GitHub](https://github.com/minegameing50/pulsechat)
+- [Case Study](https://minegameing50.github.io/pages/pulsechat.html)
+
+### GestureClip
+Gesture-based clipboard manager for intuitive copy-paste operations using hand tracking.
+- **Technologies**: Python, OpenCV, MediaPipe
+- [Live Demo](https://minegameing50.github.io/GestureClip/)
+- [GitHub](https://github.com/minegameing50/GestureClip)
+- [Case Study](https://minegameing50.github.io/pages/gestureclip.html)
+
+## GitHub Journey
+
+- **2025**: Started BCA at Mandsaur University
+- **2025**: Built PulseChat (Real-time chat application with Firebase backend)
+- **2026**: Built SmartAttend (AI-powered attendance system with facial recognition)
+
+## Connect with me
+
+- [GitHub](https://github.com/minegameing50)
+- [LinkedIn](https://www.linkedin.com/in/atul-dhanotiya-648481356)
+- [Instagram](https://www.instagram.com/atul_dhanotiya_4422)
+- [Email](mailto:atuldhanotiya7@gmail.com)
