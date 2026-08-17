@@ -2,15 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/minegameing50">
-    <img src="https://github-readme-stats.vercel.app/api?username=minegameing50&show_icons=true&theme=radical&hide_border=true" alt="Atul Dhanotiya's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/minegameing50">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=minegameing50&theme=radical&hide_border=true" alt="Atul Dhanotiya's GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=I+build+modern+web+applications;AI-powered+solutions;and+real-world+projects.&center=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A13D8&width=435&lines=I+build+modern+web+applications;AI-powered+solutions;and+real-world+projects.&center=true&size=22" alt="Typing SVG" />
 </p>
 
 I'm a passionate BCA student at Mandsaur University with a deep interest in web development and artificial intelligence. I love building real-world applications that solve meaningful problems and create impact.
