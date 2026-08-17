@@ -92,11 +92,11 @@ Gesture-based clipboard manager for intuitive copy-paste operations using hand t
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minegameing50&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=minegameing50&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minegameing50&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minegameing50&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -104,7 +104,7 @@ Gesture-based clipboard manager for intuitive copy-paste operations using hand t
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=minegameing50&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=minegameing50&theme=radical&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies"/>
 </p>
 
 ## Connect with me
