@@ -92,10 +92,6 @@ Gesture-based clipboard manager for intuitive copy-paste operations using hand t
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/minegameing50/minegameing50/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minegameing50&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
